@@ -1,0 +1,4 @@
+npm install json-server (NOssa api fake)
+npm install react-icons
+npm install react-router-dom
+npm install uuid
