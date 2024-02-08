@@ -25,7 +25,7 @@ Input.propTypes = {
     name: PropTypes.string,
     placeholder: PropTypes.string,
     handleOnChange: PropTypes.func,
-    value: PropTypes.number,
+    value: PropTypes.string,
 }
 
 export default Input
